@@ -16,7 +16,7 @@
 <p>
 <code><a href="https://atharvsingh.me">Portfolio</a> · <a href="https://blogs.atharvsingh.me">Blog</a> · <a href="https://www.linkedin.com/in/atharvwasthere/">LinkedIn</a> · <a href="mailto:singhatharv1919@gmail.com">Email</a></code>
 </p>
-<h3>SurgeGrowth</h3>
+<h3>Work Ex </h3>
 <p>
 Built production systems for AI products, including billing, analytics, and platform infrastructure.
 <br/>
