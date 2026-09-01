@@ -30,3 +30,16 @@ Built production systems for AI products, including billing, analytics, and plat
 <p align="center">
   <sub><a href="https://github.com/InternAtharv">@Contribution history from my time at SurgeGrowth ↗ </a></sub>
 </p>
+
+<p>
+Backend infrastructure for construction ops, including bulk file delivery, distributed job processing, and data migrations.
+<br/>
+<sub>199 contributions · Jun 2026 – Present</sub>
+</p>
+<p align="left">
+  <a href="https://github.com/atharvworkshere">
+    <sub>Contribution history from my time at PowerPlay ↗ </sub>
+  </a>
+</p>
+
+
